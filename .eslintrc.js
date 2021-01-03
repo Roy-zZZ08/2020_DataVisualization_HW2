@@ -47,6 +47,8 @@ module.exports = {
     'no-plusplus': 0,
     'no-multi-assign': 0,
     'import/no-cycle': 0,
+    'no-param-reassign': 0,
+    'no-unused-variable': 0,
     'unicorn/prefer-set-has': 0,
     'unicorn/filename-case': [
       'error',
